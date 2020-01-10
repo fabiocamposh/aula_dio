@@ -1,0 +1,47 @@
+
+
+body {
+    font-family: 'Rancho', cursive;
+    background: #2a9eece3;
+    margin-left: 37px;
+    margin-right: 200px;
+}
+header {
+    margin-top: 70px;
+    display: grid;
+    justify-content: 100px;
+    align-content: 100px;
+    font-family: 'Rancho', cursive;
+}
+
+h1 {
+    font-family: 'Rancho', cursive;
+    ;
+    color: #2c0aa8;
+    font-size: 50px;
+}
+h2 {
+    display: grid;
+    justify-content: 45px;
+    align-content: center;
+    color: #2c0aa8;
+    font-family: 'Rancho', cursive;
+}
+p {
+    color: #220377;
+    font-size: 20px;
+}
+footer {
+    margin-bottom: 40px;
+    font-size: 100px;
+}
+.img_padrao {
+    margin-bottom: 20px;
+    width: 400px;
+    height: 300px;
+}
+.logo {
+    width: 40px;
+}
+
+
